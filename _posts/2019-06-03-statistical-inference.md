@@ -1,10 +1,7 @@
-
-
-
 ---
 layout: post
 title:  "Statistical Inference"
-date:   2016-03-15
+date:   2019-06-03
 excerpt: "Satistical thinking in Data Science"
 tag:
 - markdown 
