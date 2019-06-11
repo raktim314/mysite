@@ -13,23 +13,21 @@ comments: false
 ---
 
 
-### Statistical Inference
+### Understanding Statistical Inference - Population & Sample
 
-The world we live in is complex, random, and uncertain. At the same
-time, it’s one big data-generating machine.
-As we commute to work on subways and in cars, as our blood moves
-through our bodies, as we’re shopping, emailing, procrastinating at
-work by browsing the Internet and watching the stock market, as we’re
-building things, eating things, talking to our friends and family about
-things, while factories are producing products, this all at least poten‐
-tially produces data.
-Imagine spending 24 hours looking out the window, and for every
-minute, counting and recording the number of people who pass by.
-Or gathering up everyone who lives within a mile of your house and
-making them tell you how many email messages they receive every
-day for the next year. Imagine heading over to your local hospital and
-rummaging around in the blood samples looking for patterns in the
-18
+Statistical analysis has two main focuses.
+* Discriptive Statistics
+* Inferential Statistics
+
+Discriptive statistics summerize data using graphs and summary value like mean, median. It can help us identifying relationship in features and patterns. The purpose of descriptive statistics does not go beyond the population we already have. On the other hand, inferential statistics does allow us to draw conclusion beyond the data we have from the population from which it was drawn.
+So, what is inference? Inference is the process of drawing conclusions about population parameters based on a sample taken from the population.
+
+
+
+
+The world we live in is complex, random, and uncertain. At the same time, it’s one big data-generating machine. As we commute to work on subways and in cars, as our blood moves through our bodies, as we’re shopping, emailing, procrastinating at work by browsing the Internet and watching the stock market, as we’re building things, eating things, talking to our friends and family about things, while factories are producing products, this all at least poten‐tially produces data. Imagine spending 24 hours looking out the window, and for every minute, counting and recording the number of people who pass by.
+Or gathering up everyone who lives within a mile of your house and making them tell you how many email messages they receive every day for the next year. Imagine heading over to your local hospital and
+rummaging around in the blood samples looking for patterns in the 18
 |
 Chapter 2: Statistical Inference, Exploratory Data Analysis, and the Data Science ProcessDNA. That all sounded creepy, but it wasn’t supposed to. The point
 here is that the processes in our lives are actually data-generating
